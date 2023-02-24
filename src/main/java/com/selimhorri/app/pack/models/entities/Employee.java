@@ -150,6 +150,9 @@ public final class Employee implements Serializable {
 		this.department = department;
 	}
 	
+	public Double salaireAnnuel(Double sal){
+		return sal*12;
+	}
 	
 		
 }
