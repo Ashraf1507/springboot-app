@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.selimhorri.app</groupId>
 	<artifactId>hr_management-system</artifactId>
-	<version></version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>HR-Management-System</name>
 	<description>Manage hr system</description>
 	<packaging>war</packaging>
